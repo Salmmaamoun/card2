@@ -1,0 +1,67 @@
+body{
+    background-image: url(img3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    background-color:rgba(0, 0, 0, .5);
+    
+    position: relative;
+    top: 50%;
+    width: 400px;
+    height: 400px;
+    margin: 100px auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    width: 50px;
+   border-radius: 10px;
+   position: relative;
+   left: 25px;
+top: 15px;
+}
+.photo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    position: relative;
+    top:-40px;
+    left: 140px;
+}
+
+
+
+h1{
+    text-align: center;
+    color:#efed40;
+}
+
+
+
+p{
+    color: white;
+    padding-bottom: 30px;
+border-bottom: 1px solid;
+width: 300px;
+
+}
+
+button{
+   
+
+    padding:  9px;
+    border: none;
+    width:300px ;
+    font-size: 16px;
+    color: white;
+    border-radius: 20px;
+    background-color: rgb(214, 6, 75);
+}
+.countain{
+    margin-left: 40px;
+}
+.pra{
+    border-bottom: none;
+}
